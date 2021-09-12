@@ -1,0 +1,134 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: rgba(6, 221, 250, 0.952);
+    font-size: 1.2em;
+    font-family: Perpetua;
+}
+
+#topBar {
+    width: 100%;
+    height: 10%;
+    background-color: rgba(6, 221, 250, 0.75);
+    
+    position: fixed;
+    z-index: 1;
+    text-align: center;
+}
+
+#profile {
+    width: 100%;
+    height: 100%;
+}
+
+#profileBox {
+    height: 100%;
+    background-color: rgba(6, 221, 250, 0.1);
+}
+
+#bottomBar {
+    width: 100%;
+    height: 10%;
+    background-color: crimson;
+}
+
+#mpBox {
+    width: 80%;
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+
+    text-align: center;
+}
+
+
+
+.icon {
+    width: 2.5em;
+    margin-top: .5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.holo {
+    width: 50%;
+    height: 50%;
+    border: 2px solid rgba(6, 221, 250, 0.952);
+
+    padding: 1%;
+    
+    position: relative;
+    top: 24%;
+    left: 24%;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    padding: 1%;
+}
+
+.profileImg {
+    width: 40%;
+
+    margin:2%;
+    float:left;
+}
+
+.profileDetails{
+    width: 45%;
+    margin-left: 50%;
+}
+
+.roundedImg {
+    border: 2px solid rgba(6, 221, 250, 0.952);
+    border-radius: 50%;
+}
+
+.mpButton {
+    width: 20%;
+    height: 20em;
+    border: 2px solid rgba(6, 221, 250, 0.952);
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    text-align: center;
+    display: inline-block;
+    font-family: Rockwell;
+
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mpButton p{
+    background-color: rgba(6, 221, 250, 0.952);
+    color: black;
+    font-size: 2em;
+}
+
+.mp1 {
+    background-image: url("res/mp1_prev.png");
+}
+
+.mp2 {
+    background-image: url("res/mp2_prev.png");
+}
+
+.mp3 {
+    background-image: url("res/mp3_prev.png");
+}

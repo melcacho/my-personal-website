@@ -46,7 +46,6 @@ p {
     font-family: Perpetua;
     margin: 0%;
     padding: 5%;
-    text-align: center;
 }
 #profileImg {
     width: 15%;
@@ -58,6 +57,7 @@ p {
     margin-right: 1%;
     border-radius: 50%;
 }
+
 #buttonLink {
     background-color: #E8175D;
     color: black;
