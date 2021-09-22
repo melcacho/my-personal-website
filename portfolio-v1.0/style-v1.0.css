@@ -122,13 +122,13 @@ p {
 }
 
 .mp1 {
-    background-image: url("res/mp1_prev.png");
+    background-image: url("asset/image/mp1_prev.png");
 }
 
 .mp2 {
-    background-image: url("res/mp2_prev.png");
+    background-image: url("asset/image/mp2_prev.png");
 }
 
 .mp3 {
-    background-image: url("res/mp3_prev.png");
+    background-image: url("asset/image/mp3_prev.png");
 }
