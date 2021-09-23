@@ -1,0 +1,12 @@
+.bg-black-white {
+    background: linear-gradient(to right, #2d2d2b 40%, #EAE6DF 40%) 100%;
+}
+
+.text-justify {
+    text-align: justify !important;
+  }
+
+b {
+    color: #B8926A;
+    font-weight: 900 !important;
+}
