@@ -4,7 +4,11 @@
 
 .text-justify {
     text-align: justify !important;
-  }
+}
+
+.text-blue {
+    color: #007bff !important;
+}
 
 b {
     color: #B8926A;

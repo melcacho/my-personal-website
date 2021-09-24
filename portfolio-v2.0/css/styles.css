@@ -7423,10 +7423,6 @@ textarea.form-control-lg {
   padding: 3rem !important;
 }
 
-.p-6 {
-  padding: 8rem !important;
-}
-
 .px-0 {
   padding-right: 0 !important;
   padding-left: 0 !important;
@@ -11284,7 +11280,7 @@ html {
 }
 
 .page-section {
-  padding: 6rem 0;
+  padding: 4rem 0;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
